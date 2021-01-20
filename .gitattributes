@@ -1,0 +1,4 @@
+Earth.dat filter=lfs diff=lfs merge=lfs -text
+Earth_new.dat filter=lfs diff=lfs merge=lfs -text
+Iteration_1 filter=lfs diff=lfs merge=lfs -text
+e.dat filter=lfs diff=lfs merge=lfs -text
